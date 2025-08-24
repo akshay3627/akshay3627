@@ -42,10 +42,11 @@ I'm a **Python Developer** with expertise in **Machine Learning** and **Web Deve
 
 ## 🌟 Featured Projects
 
-### 1. [Fitness Website](https://github.com/akshay3627/fitness-website)
+### 1. [Fitness Website](https://github.com/akshay3627/Local-Food-Wastage-Management)
 A comprehensive platform to calculate BMI and track calorie intake.
 
-![Fitness Website](https://user-images.githubusercontent.com/12345678/placeholder-fitness-image.png)
+![Fitness Website]<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/cda68c77-bad2-46a7-9769-44620f121111" />
+
 
 ### 2. Real-Time Sound Object Detection
 Implemented a system using Raspberry Pi to detect sound objects in real-time.
